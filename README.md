@@ -1,5 +1,4 @@
-Professional README.md for Your Sherin OS:
-markdown
+# Sherin OS – Zero-Payload AI Operating System
 # 🌀 SHERIN OS
 ### Spherical Hierarchical Execution and Reasoning Intelligence Network
 
@@ -50,33 +49,36 @@ markdown
 | **Cache Hit Rate** | 85% | Frequently accessed data |
 | **Processing Time** | <10ms | ID to data conversion |
 
-### markdown
-### ### 🌌 3D Spherical Topology
+### 🌌 3D Spherical Topology
+text
+   
+                  ╔══════════════════════════════╗
+                  ║     CENTRAL HUB (0,0,0)      ║
+                  ║    The Sun of the System     ║
+                  ╚══════════════════════════════╝
+                           ⇅           ⇅
+             ╔══════════════════════════════════════════╗
+             ║ LAYER 1: ENTRY                           ║
+             ║ (Rings 1-4)                              ║
+             ║ • Tokenization                           ║
+             ║ • Intent Detection                       ║
+             ║ • Resource Planning                      ║
+             ╠══════════════════════════════════════════╣
+             ║ LAYER 2: DEEP PROCESSING                 ║
+             ║ (Rings 5-8)                              ║
+             ║ • API Calls & Data Retrieval             ║
+             ║ • Statistical Analysis                   ║
+             ║ • Machine Learning Inference             ║
+             ╠══════════════════════════════════════════╣
+             ║ LAYER 3: SYNTHESIS & DECISION            ║
+             ║ (Rings 9-12)                             ║
+             ║ • Wisdom Engine Application              ║
+             ║ • Result Aggregation                     ║
+             ║ • Final Human-Readable Output            ║
+             ╚══════════════════════════════════════════╝
 
-        ╔══════════════════════════════╗
-        ║     CENTRAL HUB (0,0,0)      ║
-        ║    The Sun of the System     ║
-        ╚══════════════════════════════╝
-                 ⇅           ⇅
-╔══════════════════════════════════════════╗
-║           LAYER 1: ENTRY                 ║
-║             (Rings 1-4)                  ║
-║  • Tokenization                          ║
-║  • Intent Detection                      ║
-║  • Resource Planning                     ║
-╠══════════════════════════════════════════╣
-║         LAYER 2: DEEP PROCESSING         ║
-║             (Rings 5-8)                  ║
-║  • API Calls & Data Retrieval            ║
-║  • Statistical Analysis                  ║
-║  • Machine Learning Inference            ║
-╠══════════════════════════════════════════╣
-║      LAYER 3: SYNTHESIS & DECISION       ║
-║             (Rings 9-12)                 ║
-║  • Wisdom Engine Application             ║
-║  • Result Aggregation                    ║
-║  • Final Human-Readable Output           ║
-╚══════════════════════════════════════════╝
+text
+
 ---
 
 ## 🚀 Quick Start
@@ -309,30 +311,16 @@ Sherin OS - Redefining AI operating systems with spherical intelligence architec
 https://api.netlify.com/api/v1/badges/splendid-hummingbird-b8f7b5/deploy-status
 
 </div> ```
-🎯 Key Features of This README:
-Clickable Preview: Screenshot that links to your Netlify page
 
-Live Status Badge: Shows documentation is online
+![Sherin Banner](https://via.placeholder.com/1200x300/0f0c29/667eea?text=SHERIN+OS+-+The+Future+of+Edge+AI)
 
-Complete Architecture: All technical details
+**The world's first spherical, edge-native, zero-hallucination AI OS**
 
-Professional Formatting: Tables, code blocks, badges
+## 🚀 Quick Start
 
-Easy Setup Instructions: Copy-paste commands
-
-🔧 To Use:
-Copy the entire markdown above
-
-Save as README.md in your sherin-os repository
-
-Update any placeholder links if needed
-
-Commit and push to GitHub
-
-⚠️ Note About the Screenshot:
-The microlink.io screenshot might take a minute to generate since your page is newly deployed. If it shows a loading image, wait a few minutes and refresh.
-
-Alternative screenshot URL (if microlink doesn't work):
-
-markdown
-![Preview](https://via.placeholder.com/800x400/0f0c29/667eea?text=Sherin+OS+Interactive+Documentation)
+### Clone & Run (Local Demo)
+```bash
+git clone https://github.com/rafeez1819/Sherin_Production.git
+cd Sherin_Production
+docker compose up -d
+python sherin_master.py
