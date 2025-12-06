@@ -50,11 +50,8 @@ markdown
 | **Cache Hit Rate** | 85% | Frequently accessed data |
 | **Processing Time** | <10ms | ID to data conversion |
 
+### markdown
 ### 🌌 3D Spherical Topology
-text
-   Central Hub (0,0,0)
-        ↕      ↕
-
         ╔══════════════════════════════╗
         ║     CENTRAL HUB (0,0,0)      ║
         ║    The Sun of the System     ║
