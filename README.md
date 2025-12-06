@@ -5,8 +5,7 @@ markdown
 ## Live Demo
 [![Live Website](https://img.shields.io/website?url=https://myapp.com)](https://myapp.com)
 
-## Preview
-![Website Screenshot](https://api.microlink.io/?url=https://myapp.com&screenshot=true&embed=screenshot.url)
+
 
 ## Features
 - Feature 1
@@ -15,8 +14,8 @@ markdown
 A. Live Demo Badge:
 
 markdown
-[![Live Website](https://img.shields.io/website?url=https://myapp.com)](https://myapp.com)
-![Live Website](https://sherin.tech/) = Image (the badge)
+[![Live Website]](https://sherin.tech/)
+
  **SHERINOS DUAL‑TIMELINE Zenodo Breaking ACHIEVEMENT**
 <img width="1655" height="886" alt="image" src="https://github.com/user-attachments/assets/267f65b4-e2fa-4aa2-b30c-276131d17987" />
 
