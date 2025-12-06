@@ -55,15 +55,10 @@ text
    Central Hub (0,0,0)
         ↕      ↕
 ┌─────────────────────┐
-
 │  Layer 1: Entry     │
-
 │  (Rings 1-4)        │
-
 │  • Tokenization     │
-
 │  • Intent Detection │
-
 ├─────────────────────┤
 │  Layer 2: Deep      │
 │  Processing         │
