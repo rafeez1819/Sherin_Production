@@ -13,7 +13,7 @@
 
 **Sherin OS** - Redefining AI operating systems with spherical intelligence architecture
 
-[![Netlify Deploy](https://api.netlify.com/api/v1/badges/splendid-hummingbird-b8f7b5/deploy-status)](https://app.netlify.com/sites/splendid-hummingbird-b8f7b5/deploys)
+
 
 
 </div>
