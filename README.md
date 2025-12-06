@@ -4,12 +4,17 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/rafeez1819/sherin-os)
-[![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen)]()
-[![Netlify](https://img.shields.io/badge/Hosted_on-Netlify-00C7B7)](https://netlify.com)
-[![Live Docs](https://img.shields.io/website?url=https://splendid-hummingbird-b8f7b5.netlify.app/sherin_pro.html&label=Documentation&color=success)](https://splendid-hummingbird-b8f7b5.netlify.app/sherin_pro.html)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-yellow)](https://python.org)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED)](https://hub.docker.com/r/rafeez1819/sherin-os-api)
+### **🌐 System Status**
+*Documentation: ✅ Online | API: 🟢 Operational | Storage: 🟢 Healthy*
+
+[![GitHub stars](https://img.shields.io/github/stars/rafeez1819/sherin-os?style=social)](https://github.com/rafeez1819/sherin-os/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rafeez1819/sherin-os?style=social)](https://github.com/rafeez1819/sherin-os/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/rafeez1819/sherin-os)](https://github.com/rafeez1819/sherin-os/issues)
+
+**Sherin OS** - Redefining AI operating systems with spherical intelligence architecture
+
+[![Netlify Deploy](https://api.netlify.com/api/v1/badges/splendid-hummingbird-b8f7b5/deploy-status)](https://app.netlify.com/sites/splendid-hummingbird-b8f7b5/deploys)
+
 
 </div>
 
@@ -302,9 +307,12 @@ Email: [Add your contact email]
 🌐 System Status
 Documentation: ✅ Online | API: 🟢 Operational | Storage: 🟢 Healthy
 
-https://img.shields.io/github/stars/rafeez1819/sherin-os?style=social
+[https://img.shields.io/github/stars/rafeez1819/sherin-os?style=social
+https://img.shields.io/github/forks/rafeez1819/sherin-os?style=social
+https://img.shields.io/github/issues/rafeez1819/sherin-os](https://img.shields.io/github/stars/rafeez1819/sherin-os?style=social
 https://img.shields.io/github/forks/rafeez1819/sherin-os?style=social
 https://img.shields.io/github/issues/rafeez1819/sherin-os
+https://api.netlify.com/api/v1/badges/splendid-hummingbird-b8f7b5/deploy-status)
 
 Sherin OS - Redefining AI operating systems with spherical intelligence architecture
 
