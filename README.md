@@ -76,6 +76,25 @@ markdown
 ║  • Result Aggregation                    ║
 ║  • Final Human-Readable Output           ║
 ╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════╗
+║           LAYER 1: ENTRY                 ║
+║             (Rings 1-4)                  ║
+║  • Tokenization                          ║
+║  • Intent Detection                      ║
+║  • Resource Planning                     ║
+╠══════════════════════════════════════════╣
+║         LAYER 2: DEEP PROCESSING         ║
+║             (Rings 5-8)                  ║
+║  • API Calls & Data Retrieval            ║
+║  • Statistical Analysis                  ║
+║  • Machine Learning Inference            ║
+╠══════════════════════════════════════════╣
+║      LAYER 3: SYNTHESIS & DECISION       ║
+║             (Rings 9-12)                 ║
+║  • Wisdom Engine Application             ║
+║  • Result Aggregation                    ║
+║  • Final Human-Readable Output           ║
+╚══════════════════════════════════════════╝
 text
 Central Hub (0,0,0)
      ^      ^
