@@ -1,9 +1,9 @@
 1. Clean Structure
 markdown
-# My Project
+# Sherin Eco-System
 
 ## Live Demo
-[![Live Website](https://img.shields.io/website?url=https://myapp.com)](https://myapp.com)
+[![Live Website]([(https://didactic-space-waddle-97j6rwj76p94f9r9g-8000.app.github.dev/sherin_os_docs%20%281%29.html))]
 
 
 
