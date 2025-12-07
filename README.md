@@ -325,6 +325,10 @@ https://api.netlify.com/api/v1/badges/splendid-hummingbird-b8f7b5/deploy-status
 **The world's first spherical, edge-native, zero-hallucination AI OS**
 
 ## 🚀 Quick Start
+![01](https://github.com/user-attachments/assets/ca5c4c4e-054c-491c-85aa-facd7715856d)
+![02](https://github.com/user-attachments/assets/28695e5e-f10f-4764-8c06-1ea9e1877d45)
+![03](https://github.com/user-attachments/assets/8cde30b3-30fe-495e-a269-2068ba485be5)
+![04](https://github.com/user-attachments/assets/ea1b44b8-1955-4cfe-9485-bb0f90ec78bb)
 
 ### Clone & Run (Local Demo)
 ```bash
